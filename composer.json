@@ -1,0 +1,19 @@
+{
+    "name": "ahmadmkhlalati7/inspire",
+    "autoload": {
+        "psr-4": {
+            "AhmadMkhlalati7\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmad Mkhlalati",
+            "email": "AhmadMkhlalati7@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^10.10",
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+
+}
